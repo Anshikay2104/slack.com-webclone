@@ -1,0 +1,16 @@
+{
+  "name": "first.js",
+  "version": "1.0.0",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "node \"/Users/anshika/Desktop/demoProject/javascript/first.js\"",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {}
+}
