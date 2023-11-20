@@ -545,3 +545,27 @@
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 180px;
 }
+.footer{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+}
+.one1 h5{
+    margin-left: 150px;
+}
+.two1 h5{
+    padding-left: 40px;
+}
+.three1 h5{
+    padding-left: 40px;
+}
+.four1 h5{
+    padding-left: 40px;
+}
+.five1 h5{
+    padding-left: 40px;
+}
+.im img{
+    padding-left: 350px;
+    width: 320px;
+}
